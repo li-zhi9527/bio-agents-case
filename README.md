@@ -25,7 +25,7 @@ The following table provides links to the detailed reports for each experimental
 | Method | EMTAB3929 | GSE94820 | GitHub Repository | Research Paper (bioRxiv/arXiv) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Biomni** | [Download PDF](./reports/Biomni_embryo.pdf) | [Download PDF](./reports/Biomni_blood.pdf) |[snap-stanford/Biomni](https://github.com/snap-stanford/Biomni)|[Huang et al. (2025)](https://doi.org/10.1101/2025.05.30.656746)|
-| **Pantheon-CLI** | [Download PDF](./reports/Pantheon_embryo.pdf) | [Download PDF](./reports/Pantheon_blood.pdf) |[aristoteleo/pantheon-cli](https://github.com/aristoteleo/pantheon-cli)|[PantheonOS Team](https://github.com/aristoteleo/pantheon-cli)|
+| **Pantheon-CLI** | [Download PDF](./reports/Pantheon_embryo.pdf) | [Download PDF](./reports/Pantheon_blood.pdf) |[aristoteleo/pantheon-cli](https://github.com/aristoteleo/pantheon-cli)|[PantheonOS Team](https://pantheonos.stanford.edu/cli/docs/intro/getting-started)|
 | **STELLA** | [View Details (MD)](./reports/STELLA_embryo.md) | [View Details (MD)](./reports/STELLA_blood.md) |[zaixizhang/STELLA](https://github.com/zaixizhang/STELLA)|[Jin et al. (2025)](https://arxiv.org/abs/2507.02004)|
 
 
