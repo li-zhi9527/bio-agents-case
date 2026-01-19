@@ -31,4 +31,4 @@ This table summarizes the performance of different agents across two benchmark d
 
 
 ---
-[Back to Main Paper](#) | [Contact Authors](mailto:liyuzhuo23@mails.tsinghua.edu.cn)
+[Contact Authors](mailto:liyuzhuo23@mails.tsinghua.edu.cn)
