@@ -12,7 +12,7 @@ The following table provides links to the detailed reports for each experimental
 | :--- | :--- | :--- |
 | **Biomni** | [Download PDF](./reports/Biomni_embryo.pdf) | [Download PDF](./reports/Biomni_blood.pdf) |
 | **Pantheon-CLI** | [Download PDF](./reports/Pantheon_embryo.pdf) | [Download PDF](./reports/Pantheon_blood.pdf) |
-| **STELLA** | [View Details (MD)](./reports/Pantheon_embryo.md) | [View Details (MD)](./reports/Pantheon_blood.md) |
+| **STELLA** | [View Details (MD)](./reports/STELLA_embryo.md) | [View Details (MD)](./reports/STELLA_blood.md) |
 
 
 ## 3. Key Findings
