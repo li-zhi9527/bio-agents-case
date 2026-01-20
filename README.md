@@ -25,10 +25,4 @@ This table summarizes the performance of different agents across two benchmark d
 | **STELLA** | [View Details (MD)](./reports/STELLA_embryo.md) | [View Details (MD)](./reports/STELLA_blood.md) |
 
 ---
-
-
-## 4. Key Findings
-
-
----
 [Contact Authors](mailto:liyuzhuo23@mails.tsinghua.edu.cn)
